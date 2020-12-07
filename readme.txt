@@ -24,3 +24,10 @@
     - 저장소에서 카피
         - $ git clone https://github.com/kamunbee/deploy.git
     - 이미 작성된 내용을 카피해서 현재 만들어진 폴더 deploy 안으로 붙여놓는다.
+        - 커밋 메시지 작성
+        - 커밋
+            - 에러 : make sure you configure your user.name and user email
+            in git
+        - 공통 조치 :
+            $ git config --global user.name "본인이름"
+            $ git config --global user.email "사용했던 이메일"
